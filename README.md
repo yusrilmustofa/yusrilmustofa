@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pramuda Yusril Mustofa</h1>
 <h3 align="center">A Passionate Backend Developer From Indonesia</h3>
 
-- 🔭 I’m currently working on **Divisi Digital Business & Technology Telkom Indonesia**
+- 🔭 I’m currently working on **GAMATECHA SOLUSI NUSANTARA**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **yusrilmustofa123@gmail.com**
 
